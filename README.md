@@ -29,9 +29,9 @@
 
 ## Future Directions
 
-  To create a main job portal were a user can search for many different jobs and apply to a specific job.
+  - To create a main job portal were a user can search for many different jobs and apply to a specific job.
 
-  Create a dashboard to see the different jobs a user has applied to.
+  - Create a dashboard to see the different jobs a user has applied to.
 
-  Allow a user to upload a general resume that can be seemlessly be used from one job application to the next.
+  - Allow a user to upload a general resume that can be seemlessly be used from one job application to the next.
 	  
