@@ -1,6 +1,8 @@
 # Job Application Project
 
 
+![sample image](2cropped.png)
+
 [Video Demonstration](https://m.youtube.com/watch?v=gUvvFsa4EVk)
 
 ## What the app does
