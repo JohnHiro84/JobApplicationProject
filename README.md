@@ -1,11 +1,14 @@
 # Job Application Project
 
 
-![sample image](2cropped.png)
+![sample image](1cropped.png)
+![sample image](5cropped.png)
+![sample image](11cropped.png)
+![sample image](18cropped.png)
 
 [Video Demonstration](https://m.youtube.com/watch?v=gUvvFsa4EVk)
 
-## What the app does
+## What the Project is
 
   This job application project is an application where a user can sign up and login to thier account. Once logged in, a user can begin to fill out a job application They can save thier work and come back at a later time to finish and submit the application.This project was made with React and Rails.
 
