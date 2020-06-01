@@ -1,7 +1,7 @@
 # Job Application Project
 
 
-[Video Demonstration](https://m.youtube.com/watch?v=gUvvFsa4EVk).
+[Video Demonstration](https://m.youtube.com/watch?v=gUvvFsa4EVk)
 
 ## What the app does
 
