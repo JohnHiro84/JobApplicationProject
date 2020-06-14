@@ -10,7 +10,7 @@
 
 ## About the app
 
-  This job application project is an application where a user can sign up and login to thier account. Once logged in, a user can begin to fill out a job application They can save thier work and come back at a later time to finish and submit the application.This project was made with React and Rails.
+  This project is a clone of a recent job application I came across. Users can sign up and begin to fill out their information into a job application. They can save thier work and come back at a later time to finish and submit their application.This project was made with React and Rails.
 
 ## Inspiration
 
