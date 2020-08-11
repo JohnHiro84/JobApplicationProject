@@ -14,7 +14,7 @@
 
 ## Inspiration
 
-  This project was inspired by my current job search. As I was looking at different web development opportunities, I came across some where I thought I might be able to make some improvements on the page's styling. I began to wonder how I would create a job application portal and decided to give it a shot.
+  This project was inspired by my current job search. As I was looking at different web development opportunities and I came across some where I thought I might be able to make some improvements on the page's styling. I began to wonder how I would create a job application portal and decided to give it a shot.
 
 
 ## Keeping the code DRY
