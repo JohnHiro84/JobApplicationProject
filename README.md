@@ -21,7 +21,7 @@
 
   In the initial planning stage of creating this project, I realized that there would be many places to reuse code. In creating the initial 8  different sections, I wanted to ensure that all the containers, input fields, radio buttons, and textareas where grouped together to keep the CSS DRY and to reduce the amount of code necessary. 
 
-  In addition, I decided that each of the eight section components would just use the parent application.jsx handleSumbit function to update the job application. The transition from one section to the next is handled by a utility helper function that further keeps the code more readable and DRY.
+  In addition, I decided that each of the eight section components would just use the parent application.jsx handleSumbit function to update the job application. The transition from a section to the next is handled by a utility helper function that further keeps the code more readable and DRY.
 		
 ## Form Validation
 
