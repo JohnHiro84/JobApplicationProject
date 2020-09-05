@@ -10,7 +10,7 @@
 
 ## About the app
 
-  This project is a clone of a recent job application I came across. Users can sign up and begin to fill out their application. They can save thier work and come back at a later time to finish and submit their application.This project was made with React and Rails.
+  This project is a clone of a recent job application I came across. Users can sign up and begin to fill out their application. They can save thier work and come back at a later time to finish and submit their application.This project was made with Rails and React.
 
 ## Inspiration
 
